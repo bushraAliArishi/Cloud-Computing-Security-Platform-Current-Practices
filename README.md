@@ -68,14 +68,6 @@ The system is divided into:
 5. Use the provided scripts to test upload, encryption, and feedback features.
 
 ---
-<p align="center">
-  <a href="https://www.linkedin.com/in/bushraAliArishi" target="_blank">
-    <table>
-      <tr>
-        <td><code>LinkedIn</code></td>
-        <td><kbd>Bushra Ali Arishi</kbd></td>
-      </tr>
-    </table>
-  </a>
-</p>
+## LinkedIn
+[![Bushra Ali Arishi](https://img.shields.io/badge/LinkedIn-Bushra%20Ali%20Arishi-blue?logo=linkedin)](https://www.linkedin.com/in/bushra-ali-arishi/?locale=en_US)
 
