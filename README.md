@@ -68,11 +68,8 @@ The system is divided into:
 5. Use the provided scripts to test upload, encryption, and feedback features.
 
 ---
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/bushraAliArishi" style="text-decoration:none;">
-    <code style="font-size: 16px; padding: 10px 20px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 6px; display: inline-block;">
-      Visit my LinkedIn Profile
-    </code>
+  <a href="https://www.linkedin.com/in/bushraAliArishi">
+    <kbd style="font-size:16px;">Visit my LinkedIn Profile</kbd>
   </a>
 </p>
