@@ -69,7 +69,16 @@ The system is divided into:
 
 ---
 <p align="center">
-  <a href="https://www.linkedin.com/in/bushraAliArishi">
-    <kbd style="font-size:16px;">Visit my LinkedIn Profile</kbd>
+  <a href="https://www.linkedin.com/in/bushraAliArishi" target="_blank" style="text-decoration: none;">
+    <table style="border-collapse: collapse; border: none;">
+      <tr>
+        <td style="background-color: #e0e0e0; color: #000; padding: 10px 15px; font-weight: bold; border: 1px solid #ccc;">
+          LinkedIn
+        </td>
+        <td style="background-color: #0077b5; color: #fff; padding: 10px 20px; font-weight: bold; border: 1px solid #ccc;">
+          Bushra Ali Arishi
+        </td>
+      </tr>
+    </table>
   </a>
 </p>
