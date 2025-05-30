@@ -69,4 +69,10 @@ The system is divided into:
 
 ---
 
-[Visit my LinkedIn Profile](https://www.linkedin.com/in/bushraAliArishi)
+<p align="center">
+  <a href="https://www.linkedin.com/in/bushraAliArishi" style="text-decoration:none;">
+    <code style="font-size: 16px; padding: 10px 20px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 6px; display: inline-block;">
+      Visit my LinkedIn Profile
+    </code>
+  </a>
+</p>
